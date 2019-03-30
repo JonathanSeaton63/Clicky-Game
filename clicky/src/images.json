@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name": "Buzz Lightyear",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-a07syh_9331bd0a.jpeg?region=0,0,450,450",
+    "state": false
+    },
+    {
+    "id": 2,
+    "name": "Woody",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-10n7ovy_9b42e613.jpeg",
+    "state": false
+    },
+    {
+    "id": 3,
+    "name": "Rex",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1pw6dak_23081c6b.jpeg",
+    "state": false
+    },
+    {
+    "id": 4, 
+    "name": "Slinky",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-pzhioy_5a17fe4b.jpeg?region=0%2C0%2C450%2C450&optimize=true",
+    "state": false
+    },
+    {
+    "id": 5,
+    "name": "Hamm",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-f6gkg8_3e65bb6c.jpeg",
+    "state": false
+    },
+    {
+    "id": 6,
+    "name": "Jessie",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-y1ys73_7dd5c0b7.jpeg?region=0%2C0%2C450%2C450",
+    "state": false
+    },
+    {
+    "id": 7,
+    "name": "Aliens",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-s1q5sn_ecb74152.jpeg",
+    "state": false
+    },
+    {
+    "id": 8,
+    "name": "Mr. Potato Head",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-enmr1e_871e8eac.jpeg?region=0,0,450,450",
+    "state": false
+    }
+
+]
