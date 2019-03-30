@@ -14,13 +14,13 @@ class App extends Component {
   }
 
   handleClick = id => {
-    let guesseCorrectly = false; 
+    let guessCorrectly = false; 
     const newData = this.state.images.map(item => {
       const newImages = { ...images };
       if (newImages.id === id) {
         if (!newImages.clicked) {
           newImages.clicked = true; 
-          guesseCorrectly = true; 
+          guessCorrectly = true; 
         }
       }
     })
